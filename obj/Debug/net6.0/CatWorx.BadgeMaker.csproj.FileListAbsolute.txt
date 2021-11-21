@@ -1,0 +1,15 @@
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\bin\Debug\net6.0\CatWorx.BadgeMaker.exe
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\bin\Debug\net6.0\CatWorx.BadgeMaker.deps.json
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\bin\Debug\net6.0\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\bin\Debug\net6.0\CatWorx.BadgeMaker.dll
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\bin\Debug\net6.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\bin\Debug\net6.0\CatWorx.BadgeMaker.pdb
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.dll
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\ref\CatWorx.BadgeMaker.dll
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.pdb
+C:\Users\Blaze Lim\Documents\Repos\bootcamp assignments\projects\CatWorks\CatWorx.BadgeMaker\obj\Debug\net6.0\CatWorx.BadgeMaker.genruntimeconfig.cache
