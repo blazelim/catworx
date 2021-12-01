@@ -40,9 +40,14 @@ namespace CatWorx.BadgeMaker
     static void Main(string[] args) // entry point
     {   
       // this is our employee getting code now
-      List<Employee> employees = GetEmployees();
-      Util.PrintEmployees(employees);
-      Util.MakeCSV(employees);
+      // List<Employee> employees = GetEmployees();
+      // Util.PrintEmployees(employees);
+      // Util.MakeCSV(employees);
+
+        List<Employee> employees = new List<Employee>();
+        employees = GetEmployees();
+        Util.MakeCSV(employees);
+        Util.MakeBadges(employees);
     }
   }
 }
