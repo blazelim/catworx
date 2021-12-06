@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yAM1l7OoYX0w1yJM0LKmNGDJ+Rj7c1TCakXja4WDXXHmukXymd2faQus4DhFHcCidb+QCJjfTjaZ5CMHcBgtfg==",
+  "dgSpecHash": "xdwafl/uGkYHbEPXWHye2fJ6oStLoiIY/nRSu7EPx5Yn6TqkyucCMqBFvCXm0vqso4XahDqWPWy6lYqUXaqrLw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Blaze Lim\\Documents\\Repos\\bootcamp assignments\\projects\\CatWorks\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blaze Lim\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Blaze Lim\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Blaze Lim\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
   ],
   "logs": []
