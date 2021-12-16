@@ -8,7 +8,7 @@ namespace CatWorx.BadgeMaker {
     class PeopleFetcher 
     {
         // code from GetEmployees() in Program.cs
-        static List<Employee> GetEmployees()
+        public static List<Employee> GetEmployees()
         {   
         // I will return a lost of strings
         List<Employee> employees = new List<Employee>();

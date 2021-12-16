@@ -9,7 +9,6 @@ namespace CatWorx.BadgeMaker
   {
 
 
-
     static void Main(string[] args) // entry point
     {   
       // this is our employee getting code now
@@ -18,8 +17,16 @@ namespace CatWorx.BadgeMaker
       // Util.MakeCSV(employees);
 
         List<Employee> employees = new List<Employee>();
-        // employees = GetEmployees();
-        employees = PeopleFetcher.GetFromApi();
+        Console.WriteLine("Do you want to enter your own data? 'Y' for yes, 'N' for no.");
+        string choice = Console.ReadLine();
+
+        if (choice == "Y" || choice == "y")
+        {
+            employees = PeopleFetcher.GetEmployees();
+        } else if (choice == "N" || choice == "n") {
+            employees = PeopleFetcher.GetFromApi();
+        } 
+
         Util.MakeCSV(employees);
         Util.MakeBadges(employees);
     }
